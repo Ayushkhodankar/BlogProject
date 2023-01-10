@@ -33,6 +33,19 @@ const About = () => {
         voluptatum! Quo voluptatum necessitatibus labore esse nobis ratione cum
         aperiam officia rem expedita voluptate animi, rerum aspernatur quidem
         ea.
+
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum amet
+        quibusdam, autem voluptatum odit porro reiciendis ipsam aperiam sint ut
+        distinctio nobis est recusandae quasi quos modi soluta illum inventore,
+        dolore sed accusantium quia voluptate. Ducimus, provident veniam. Fugit,
+        reiciendis aperiam veritatis nostrum, quisquam est molestias animi
+        suscipit pariatur assumenda corrupti perferendis, molestiae magnam
+        nesciunt perspiciatis commodi vero quibusdam id! Expedita, incidunt.
+        Culpa illo enim voluptates maxime voluptate, vel nesciunt natus
+        recusandae totam dolorem saepe rerum tempora asperiores eum neque? Enim,
+        voluptatum! Quo voluptatum necessitatibus labore esse nobis ratione cum
+        aperiam officia rem expedita voluptate animi, rerum aspernatur quidem
+        ea.
       </p>
     </div>
   );
