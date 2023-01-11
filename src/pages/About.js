@@ -32,7 +32,7 @@ const About = () => {
         recusandae totam dolorem saepe rerum tempora asperiores eum neque? Enim,
         voluptatum! Quo voluptatum necessitatibus labore esse nobis ratione cum
         aperiam officia rem expedita voluptate animi, rerum aspernatur quidem
-        ea.
+        ea. 
 
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum amet
         quibusdam, autem voluptatum odit porro reiciendis ipsam aperiam sint ut
